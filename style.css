@@ -1,0 +1,58 @@
+header img {
+    width: 200px;
+    height: 60px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+}
+
+h2 {
+    background-color: navy;
+    color: white;
+    font-size: 30px;
+}
+
+p img {
+    height: 150px;
+    width: 200px;
+}
+img a {
+    background-color:  navy;
+}
+
+header {
+    background-color: navy;
+    padding: 10px;
+}
+
+footer{
+    background-color: navy;
+    color: white;
+}
+
+header a {
+    color: white;
+    margin: 20px;
+}
+
+.lll{
+    width: 80px;
+}
+
+.a:hover{
+    width: 700px;
+    height: 400px;
+
+}
+
+.kkk{
+    content: url(https://football-fun.ru/uploads/1/teams/chelsea-1905jpg.jpg);
+}
+
+.rr:{
+    width: 100px;
+    height: 90px;
+    
+}
